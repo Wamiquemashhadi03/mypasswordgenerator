@@ -6,7 +6,7 @@
 
 ---
 
-````markdown
+
 # 🔐 Password Generator App
 
 A sleek and functional password generator built with **React**, **Tailwind CSS**, and **Vite**. It lets users generate secure random passwords with customizable length and options like including numbers and special characters.
@@ -26,7 +26,7 @@ A sleek and functional password generator built with **React**, **Tailwind CSS**
 
 ## 🖼️ Preview
 
-![App Screenshot](https://github.com/Wamiquemashhadi03/mypasswordgenerator/assets/Wamiquemashhadi03/Screenshot1.png) 
+![App Screenshot](https://raw.githubusercontent.com/Wamiquemashhadi03/mypasswordgenerator/main/src/assets/Screenshot.png)
 
 ---
 
@@ -50,7 +50,7 @@ git clone https://github.com/Wamiquemashhadi03/mypasswordgenerator.git
 cd mypasswordgenerator
 npm install
 npm run dev
-````
+```
 
 Visit: [http://localhost:5173](http://localhost:5173)
 
@@ -63,7 +63,7 @@ You can run this project **directly on GitHub** using [Codespaces](https://githu
 ### ▶️ Quick Launch
 
 1. Open the repo on GitHub
-2. Press the `.` key (dot) to open in **Visual Studio Code for Web**
+2. Press the `.` key (dot) or click the **"Code"** dropdown > **"Open with Codespaces"**.
 3. Click on **"Create Codespace"** (if not opened automatically)
 
 ### 🖥️ Run in Terminal:
@@ -144,7 +144,8 @@ Have an idea to improve this project? Feel free to fork it, raise an issue, or o
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ---
 
@@ -152,7 +153,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you like this project, please ⭐️ the repo and share it! Every star motivates continued development.
 
-````
+
 
 ---
 
